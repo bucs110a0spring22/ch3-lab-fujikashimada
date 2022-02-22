@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ < This code first allows the 2 turtles to race one another by a random input between 1 and 100, the second race is ran 10 times each advancing a random number between 1-10. The second part consists of one turtle drawing shapes with a specific number of sides using for loop. >
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: < 0 >
 
-Grace days remaining: < # >/5
+Grace days remaining: < 5 >/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ < none >
 
 ## REFERENCES:
- < List any outside resources used >
+ < none >
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ < none >
